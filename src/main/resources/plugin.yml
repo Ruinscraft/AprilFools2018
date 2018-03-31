@@ -1,0 +1,3 @@
+main: com.ruinscraft.aprilfools2018.AprilFools2018
+name: ${name}
+version: ${project.version}
